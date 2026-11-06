@@ -1,0 +1,15 @@
+﻿
+
+Sent    : 60
+Lost    : 0
+LossPct : 0
+Min     : 17
+Avg     : 24,7
+Max     : 48
+P95     : 37
+StdDev  : 5,8
+Jitter  : 5,2
+
+
+
+

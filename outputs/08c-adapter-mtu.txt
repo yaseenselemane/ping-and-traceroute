@@ -1,0 +1,12 @@
+﻿
+       MTU  MediaSenseState      Bytes In     Bytes Out  Interface
+----------  ---------------  ------------  ------------  -------------
+4294967295                1             0         95366  Loopback Pseudo-Interface 1
+      1500                1     429091135      72467481  Wi-Fi
+      1500                5             0             0  Cellular
+      1500                5             0             0  Ethernet
+      1500                5             0             0  Local Area Connection* 1
+      1500                5             0             0  Local Area Connection* 10
+      1500                5             0             0  Bluetooth Network Connection
+      1500                1             0         92829  vEthernet (Default Switch)
+

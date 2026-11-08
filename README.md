@@ -2,7 +2,7 @@
 
 Hands-on notes from measuring my own home network (a 5G router with a mesh extender, in South Africa) with nothing but `ping`, `tracert` and a small script. Every number below came from a real run. The raw output is in [`outputs/`](outputs/).
 
-Part of my networking labs: **ping and traceroute** · [nmap](https://github.com/yaseenselemane/nmap-field-notes) · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · [Wireshark](https://github.com/yaseenselemane/wireshark-packet-lab) · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · [subnet calculator](https://github.com/yaseenselemane/subnet-calculator) · [vantage](https://github.com/yaseenselemane/vantage)
+Part of my networking labs: **ping and traceroute** · [nmap](https://github.com/yaseenselemane/nmap-field-notes) · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · [Wireshark](https://github.com/yaseenselemane/wireshark-packet-lab) · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · [CCTV network](https://github.com/yaseenselemane/cctv-network-lab) · [subnet calculator](https://github.com/yaseenselemane/subnet-calculator) · [vantage](https://github.com/yaseenselemane/vantage)
 
 ---
 
